@@ -2025,7 +2025,7 @@
         "uint64be": "^1.0.1",
         "unicode": "^10.0.0",
         "untildify": "^3.0.2",
-        "vscode-debugadapter": "^1.28.0",
+        "vscode-debugadapter": "^1.50.0",
         "vscode-debugprotocol": "^1.28.0",
         "vscode-extension-telemetry": "0.1.4",
         "vscode-jsonrpc": "6.0.0-next.7",
