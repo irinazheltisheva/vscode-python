@@ -13,3 +13,4 @@ py==1.9.0                 # via pytest
 pyparsing==2.4.5          # via packaging
 pytest==6.1.2             # via -r news/requirements.in
 toml==0.10.1              # via pytest
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
